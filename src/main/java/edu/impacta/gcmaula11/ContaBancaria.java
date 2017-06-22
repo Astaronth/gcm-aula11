@@ -7,7 +7,8 @@ public class ContaBancaria {
 	
 	public void depositar(long valor) {
 		saldo += valor;
-	}
+		}
+
 	
 	public boolean sacar(long valor) {
 		// FALTA IMPLEMENTAR
